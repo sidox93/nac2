@@ -1,0 +1,65 @@
+* {
+    background-color: #161616;
+    
+}
+#bannerfiap{
+    margin-left: 20px;
+}
+#iconeperfil{
+    margin-right: 20px;
+    float: right;
+}
+#branco{
+    clear: both;
+
+}
+#graduacao{
+    font: Arial;
+    font-weight: lighter;
+    font-size: 40pt;
+    color: #ed145b;
+    margin-top: 90px;
+    margin-bottom: 0px;
+    margin-left: 390px;
+}
+#matematica {
+    font-size: 18pt;
+    color: white;
+    margin-bottom: 55px;
+}
+.espacocapitulos{
+    font-size: 20pt;
+    margin-bottom: 40px;
+}
+#esquerda {
+    margin-left: 200px;
+    color: white;
+    float: left;
+    
+}
+.espacoicones{
+    margin-bottom: 25px;
+}
+#direita{
+    margin-top: 100px;
+    padding-right: 30%;
+    margin-right: 60px;
+    float: right;
+}
+#capitulos li{
+    font-size: 15pt; 
+    list-style-type: none;
+
+}
+#conversa{
+    margin-left: 800px;
+    top:250px;
+
+    position: absolute;
+}
+#microfone{
+    float: right;
+    margin-top: 50px;
+    margin-right: 150px;
+
+}

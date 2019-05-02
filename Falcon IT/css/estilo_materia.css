@@ -1,0 +1,59 @@
+* {
+    background-color: #161616;
+   color:white; 
+}
+#bannerfiap{
+    margin-left: 20px;
+}
+#iconeperfil{
+    margin-right: 20px;
+    float: right;
+}
+.negrito{
+    font-weight: bolder !important;
+}
+#tudo{
+    margin: 0 150px 0 150px;
+    border: 2PX solid;
+    border-color: #000000;
+}
+#link1{
+     border: 2px solid;
+     border-color: #000000;
+     font: 12px inherit;
+     color: #ed145b;
+}
+#link1 a{
+    font: 12px inherit;
+    color: #910e39;
+}
+#parte2{
+    background-color: #E6E6E6;
+    margin: 60px 0 0 0;
+}
+#link2{
+    border: 2px solid;
+     border-color: #E6E6E6;
+     font: 12px inherit;
+}
+#link3{
+    border-style: top dashed solid;
+    border: 2px solid;
+     border-color: #000000;
+}
+.h1{
+    font: 35px inherit;
+}
+.p{
+    font: 15px inherit;
+}
+#conversa{
+    margin-left: 800px;
+    top:250px;
+}
+#microfone{
+    float: right;
+    margin-top: 50px;
+    margin-right: 150px;
+
+}
